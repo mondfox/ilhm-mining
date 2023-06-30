@@ -31,9 +31,6 @@ COMING SQQN/I NEED HELP --------------------------------------------------------
 
 contact me on discord @dogfucker2
 
-might be adding smth to let you choose features via github pages/batch file or smth
-will be adding highlights for mycelium/red sand
-will be adding highlights for quartz
 will make a version with textures that arent ugly as fuck
 
 enjoy the pack :3
