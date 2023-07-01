@@ -1,4 +1,5 @@
 ilhm's Mining Pack ----------------------------------------------------------------
+https://mondfox.github.io/ilhmminingpack/ to customize pack
 SOUNDS ----------------------------------------------------------------------------
 
 removing custom sounds
@@ -11,8 +12,7 @@ delete assets\minecraft\sounds\random if you want to get rid of glass sound
 
 sources for sounds
 =============================
-amethyst sound is from elodurs gemstone pack, i just repitched so its not always the same noise
-*on closer inspection, it is not always the same noise
+gemstone sound is from elodurs(?) gemstone pack, i just repitched so its not always the same noise
 
 etherwarp is from some tibetan singing bowl yt vid and heavily modified, if you want link its in metadata of the sound. if its not then its bc you cant do that. i didnt check.
 
@@ -28,10 +28,19 @@ delete "glass_pane_edges.png" and "glass_pane_sides.png" from the "assets\minecr
 
 you can also modify "glass_pane_edges.png" and "glass_pane_sides.png" to change texture of glass panes (separate from glass blocks texture)
 
+sources for textures (on fancy version ONLY)
+=============================
+Gems are Eloldurs discord.gg/8C3h9MmtdW
+bedrock is https://static.planetminecraft.com/files/image/minecraft/texture-pack/2021/230/13996138-newpiskel_m.jpg
+cobble is downscaled https://minecraft.novaskin.me/skin/1749563165/
+
+
 COMING SQQN/I NEED HELP -----------------------------------------------------------
 
 contact me on discord @dogfucker2
 
 will make a version with textures that arent ugly as fuck
+ilhm mining pack (fancy)
+its been made
 
 enjoy the pack :3
