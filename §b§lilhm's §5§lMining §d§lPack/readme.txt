@@ -5,13 +5,14 @@ removing custom sounds
 =============================
 first off fuck you dont do this its way better
 
-delete assets\minecraft\sounds\mob if you want to get rid of etherwarp noise
+delete assets\minecraft\sounds\mob if you want to get rid of etherwarp sound
 
-delete assets\minecraft\sounds\random if you want to get rid of glass amethyst sound
+delete assets\minecraft\sounds\random if you want to get rid of glass sound
 
 sources for sounds
 =============================
-amethyst sound is from elodurs(?) gemstone pack, i just repitched so its not always the same noise
+amethyst sound is from elodurs gemstone pack, i just repitched so its not always the same noise
+*on closer inspection, it is not always the same noise
 
 etherwarp is from some tibetan singing bowl yt vid and heavily modified, if you want link its in metadata of the sound. if its not then its bc you cant do that. i didnt check.
 
